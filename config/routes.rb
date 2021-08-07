@@ -3,5 +3,9 @@ Rails.application.routes.draw do
 
   devise_for :users, module: "api/v1", defaults: { format: :json }
 
-  get '/profile', to: "profile#show"
+  # get '/profile', to: "profile#show"
+
+  scope 'api/v1', module: 'api/v1' do
+    resources :universities
+  end
 end
