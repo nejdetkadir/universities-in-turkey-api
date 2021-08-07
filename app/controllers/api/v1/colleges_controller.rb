@@ -1,6 +1,6 @@
 class Api::V1::CollegesController < ApplicationController
   before_action :authenticate_user!
-  before_action :check_admin, only: :create
+  before_action :check_admin, only: [:create, :destroy]
 
   def create
     @college = College.new(college_params)
@@ -11,6 +11,13 @@ class Api::V1::CollegesController < ApplicationController
   def index
     @colleges = College.all
     render json: @colleges
+  end
+
+  def destroy
+    @college = College.find(params[:id])
+    @college.destroy
+
+    head :ok
   end
 
   private

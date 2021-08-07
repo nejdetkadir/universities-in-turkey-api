@@ -1,6 +1,6 @@
 class Api::V1::FacultiesController < ApplicationController
   before_action :authenticate_user!
-  before_action :check_admin, only: :create
+  before_action :check_admin, only: [:create, :destroy]
   
   def create
     @faculty = Faculty.new(faculty_params)
@@ -11,6 +11,13 @@ class Api::V1::FacultiesController < ApplicationController
   def index
     @faculties = Faculty.all
     render json: @faculties
+  end
+
+  def destroy
+    @faculty = Faculty.find(params[:id])
+    @faculty.destroy
+
+    head :ok
   end
 
   private

@@ -1,6 +1,6 @@
 class Api::V1::DepartmentsController < ApplicationController
   before_action :authenticate_user!
-  before_action :check_admin, only: :create
+  before_action :check_admin, only: [:create, :destroy]
   
   def create
     @department = Department.new(department_params)
@@ -11,6 +11,13 @@ class Api::V1::DepartmentsController < ApplicationController
   def index
     @departments = Department.all
     render json: @departments
+  end
+
+  def destroy
+    @department = Department.find(params[:id])
+    @department.destroy
+
+    head :ok
   end
 
   private
