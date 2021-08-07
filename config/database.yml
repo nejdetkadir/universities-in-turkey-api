@@ -23,13 +23,13 @@ default: &default
 
 development:
   <<: *default
-  database: rails_6_devise_api_development
+  database: universities-in-turkey-api_development
 
   # The specified database role being used to connect to postgres.
   # To create additional roles in postgres see `$ createuser --help`.
   # When left blank, postgres will use the default role. This is
   # the same name as the operating system user running Rails.
-  #username: rails_6_devise_api
+  #username: universities-in-turkey-api
 
   # The password associated with the postgres role (username).
   #password:
@@ -57,7 +57,7 @@ development:
 # Do not set this db to the same as development or production.
 test:
   <<: *default
-  database: rails_6_devise_api_test
+  database: universities-in-turkey-api_test
 
 # As with config/credentials.yml, you never want to store sensitive information,
 # like your database password, in your source code. If your source code is
@@ -81,6 +81,6 @@ test:
 #
 production:
   <<: *default
-  database: rails_6_devise_api_production
-  username: rails_6_devise_api
-  password: <%= ENV['RAILS_6_DEVISE_API_DATABASE_PASSWORD'] %>
+  database: universities-in-turkey-api_production
+  username: universities-in-turkey-api
+  password: <%= ENV['universities-in-turkey-api_DATABASE_PASSWORD'] %>
