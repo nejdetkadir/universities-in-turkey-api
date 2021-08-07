@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2021_08_07_134717) do
+ActiveRecord::Schema.define(version: 2021_08_07_151402) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -21,6 +21,22 @@ ActiveRecord::Schema.define(version: 2021_08_07_134717) do
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.index ["university_id"], name: "index_colleges_on_university_id"
+  end
+
+  create_table "departments", id: :uuid, default: -> { "gen_random_uuid()" }, force: :cascade do |t|
+    t.string "owner_type", null: false
+    t.uuid "owner_id", null: false
+    t.string "name"
+    t.integer "years"
+    t.string "point_type"
+    t.integer "quota"
+    t.integer "quota_of_top_student_of_the_school"
+    t.string "special_conditions"
+    t.integer "order_of_success_of_last_year"
+    t.float "base_score_of_last_year"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+    t.index ["owner_type", "owner_id"], name: "index_departments_on_owner"
   end
 
   create_table "faculties", id: :uuid, default: -> { "gen_random_uuid()" }, force: :cascade do |t|
