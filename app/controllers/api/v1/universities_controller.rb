@@ -1,5 +1,6 @@
 class Api::V1::UniversitiesController < ApplicationController
-  # before_action :authenticate_user!
+  before_action :authenticate_user!
+  before_action :check_admin, only: :create
 
   def create
     @university = University.new(university_params)

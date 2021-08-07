@@ -1,6 +1,7 @@
 class Api::V1::DepartmentsController < ApplicationController
-  # before_action :authenticate_user!
-
+  before_action :authenticate_user!
+  before_action :check_admin, only: :create
+  
   def create
     @department = Department.new(department_params)
     @department.save

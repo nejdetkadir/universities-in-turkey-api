@@ -1,6 +1,7 @@
 class Api::V1::FacultiesController < ApplicationController
-  # before_action :authenticate_user!
-
+  before_action :authenticate_user!
+  before_action :check_admin, only: :create
+  
   def create
     @faculty = Faculty.new(faculty_params)
     @faculty.save
