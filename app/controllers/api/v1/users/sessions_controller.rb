@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-class Api::V1::SessionsController < Devise::SessionsController
+class Api::V1::Users::SessionsController < Devise::SessionsController
   # before_action :configure_sign_in_params, only: [:create]
   skip_before_action :verify_signed_out_user
 
@@ -9,7 +9,7 @@ class Api::V1::SessionsController < Devise::SessionsController
       render json: resource
     end
     def respond_to_on_destroy
-      head :ok
+      head :no_content
     end
 
   # GET /resource/sign_in
