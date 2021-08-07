@@ -9,5 +9,6 @@ Rails.application.routes.draw do
     resources :universities
     resources :colleges
     resources :faculties
+    resources :departments
   end
 end
