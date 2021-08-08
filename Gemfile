@@ -19,6 +19,8 @@ gem 'puma', '~> 5.0'
 gem 'devise', github: 'heartcombo/devise', branch: 'master'
 gem 'devise-jwt'
 
+gem 'ruby-progressbar'
+
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
