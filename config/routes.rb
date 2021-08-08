@@ -7,9 +7,9 @@ Rails.application.routes.draw do
       devise_for :users, defaults: { format: :json }
     end
 
-    resources :universities, only: [:index, :create, :destroy]
-    resources :colleges, only: [:index, :create, :destroy]
-    resources :faculties, only: [:index, :create, :destroy]
-    resources :departments, only: [:index, :create, :destroy]
+    resources :universities, only: [:index, :create, :destroy, :show]
+    resources :colleges, only: [:index, :create, :destroy, :show]
+    resources :faculties, only: [:index, :create, :destroy, :show]
+    resources :departments, only: [:index, :create, :destroy, :show]
   end
 end

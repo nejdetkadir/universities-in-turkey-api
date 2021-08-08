@@ -1,6 +1,7 @@
 class Api::V1::FacultiesController < ApplicationController
   before_action :authenticate_user!
   before_action :check_admin, only: [:create, :destroy]
+  before_action :set_faculty, only: [:show, :destroy]
   
   def create
     @faculty = Faculty.new(faculty_params)
@@ -13,8 +14,12 @@ class Api::V1::FacultiesController < ApplicationController
     render json: @faculties
   end
 
+  def show
+    render json: @faculty, include: [:departments => {except: [:created_at, :updated_at, :owner_type, :owner_id]}, :university => {except: [:created_at, :updated_at]}],
+                           except: [:created_at, :updated_at, :university_id]
+  end
+
   def destroy
-    @faculty = Faculty.find(params[:id])
     @faculty.destroy
 
     head :ok
@@ -23,5 +28,9 @@ class Api::V1::FacultiesController < ApplicationController
   private
     def faculty_params
       params.require(:faculty).permit(:name, :university_id)
+    end
+
+    def set_faculty
+      @faculty = Faculty.find(params[:id])
     end
 end
