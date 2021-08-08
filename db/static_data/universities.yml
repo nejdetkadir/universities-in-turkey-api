@@ -1,0 +1,669 @@
+-
+  name: ADIYAMAN ÜNİVERSİTESİ
+  is_public: true
+-
+  name: AFYON KOCATEPE ÜNİVERSİTESİ
+  is_public: true
+-
+  name: AFYONKARAHİSAR SAĞLIK BİLİMLERİ ÜNİVERSİTESİ
+  is_public: true
+-
+  name: AĞRI İBRAHİM ÇEÇEN ÜNİVERSİTESİ
+  is_public: true
+-
+  name: AKDENİZ ÜNİVERSİTESİ
+  is_public: true
+-
+  name: AKSARAY ÜNİVERSİTESİ
+  is_public: true
+-
+  name: ALANYA ALAADDİN KEYKUBAT ÜNİVERSİTESİ
+  is_public: true
+-
+  name: AMASYA ÜNİVERSİTESİ
+  is_public: true
+-
+  name: ANADOLU ÜNİVERSİTESİ
+  is_public: true
+-
+  name: ANKARA HACI BAYRAM VELİ ÜNİVERSİTESİ
+  is_public: true
+-
+  name: ANKARA ÜNİVERSİTESİ
+  is_public: true
+-
+  name: ANKARA YILDIRIM BEYAZIT ÜNİVERSİTESİ
+  is_public: true
+-
+  name: ARDAHAN ÜNİVERSİTESİ
+  is_public: true
+-
+  name: ARTVİN ÇORUH ÜNİVERSİTESİ
+  is_public: true
+-
+  name: ATATÜRK ÜNİVERSİTESİ
+  is_public: true
+-
+  name: AYDIN ADNAN MENDERES ÜNİVERSİTESİ
+  is_public: true
+-
+  name: BALIKESİR ÜNİVERSİTESİ
+  is_public: true
+-
+  name: BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ
+  is_public: true
+-
+  name: BARTIN ÜNİVERSİTESİ
+  is_public: true
+-
+  name: BATMAN ÜNİVERSİTESİ
+  is_public: true
+-
+  name: BAYBURT ÜNİVERSİTESİ
+  is_public: true
+-
+  name: BİLECİK ŞEYH EDEBALİ ÜNİVERSİTESİ
+  is_public: true
+-
+  name: BİNGÖL ÜNİVERSİTESİ
+  is_public: true
+-
+  name: BİTLİS EREN ÜNİVERSİTESİ
+  is_public: true
+-
+  name: BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ
+  is_public: true
+-
+  name: BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ
+  is_public: true
+-
+  name: BURSA ULUDAĞ ÜNİVERSİTESİ
+  is_public: true
+-
+  name: ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ
+  is_public: true
+-
+  name: ÇANKIRI KARATEKİN ÜNİVERSİTESİ
+  is_public: true
+-
+  name: ÇUKUROVA ÜNİVERSİTESİ
+  is_public: true
+-
+  name: DİCLE ÜNİVERSİTESİ
+  is_public: true
+-
+  name: DOKUZ EYLÜL ÜNİVERSİTESİ
+  is_public: true
+-
+  name: DÜZCE ÜNİVERSİTESİ
+  is_public: true
+-
+  name: EGE ÜNİVERSİTESİ
+  is_public: true
+-
+  name: ERCİYES ÜNİVERSİTESİ
+  is_public: true
+-
+  name: ERZİNCAN BİNALİ YILDIRIM ÜNİVERSİTESİ
+  is_public: true
+-
+  name: ESKİŞEHİR OSMANGAZİ ÜNİVERSİTESİ
+  is_public: true
+-
+  name: ESKİŞEHİR TEKNİK ÜNİVERSİTESİ
+  is_public: true
+-
+  name: FIRAT ÜNİVERSİTESİ
+  is_public: true
+-
+  name: GALATASARAY ÜNİVERSİTESİ
+  is_public: true
+-
+  name: GAZİ ÜNİVERSİTESİ
+  is_public: true
+-
+  name: GAZİANTEP İSLAM BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ
+  is_public: true
+-
+  name: GAZİANTEP ÜNİVERSİTESİ
+  is_public: true
+-
+  name: GİRESUN ÜNİVERSİTESİ
+  is_public: true
+-
+  name: GÜMÜŞHANE ÜNİVERSİTESİ
+  is_public: true
+-
+  name: HACETTEPE ÜNİVERSİTESİ
+  is_public: true
+-
+  name: HAKKARİ ÜNİVERSİTESİ
+  is_public: true
+-
+  name: HARRAN ÜNİVERSİTESİ
+  is_public: true
+-
+  name: HATAY MUSTAFA KEMAL ÜNİVERSİTESİ
+  is_public: true
+-
+  name: HİTİT ÜNİVERSİTESİ
+  is_public: true
+-
+  name: IĞDIR ÜNİVERSİTESİ
+  is_public: true
+-
+  name: ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ
+  is_public: true
+-
+  name: İNÖNÜ ÜNİVERSİTESİ
+  is_public: true
+-
+  name: İSKENDERUN TEKNİK ÜNİVERSİTESİ
+  is_public: true
+-
+  name: İSTANBUL ÜNİVERSİTESİ
+  is_public: true
+-
+  name: İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA
+  is_public: true
+-
+  name: İZMİR BAKIRÇAY ÜNİVERSİTESİ
+  is_public: true
+-
+  name: İZMİR DEMOKRASİ ÜNİVERSİTESİ
+  is_public: true
+-
+  name: İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ
+  is_public: true
+-
+  name: KAFKAS ÜNİVERSİTESİ
+  is_public: true
+-
+  name: KAHRAMANMARAŞ İSTİKLAL ÜNİVERSİTESİ
+  is_public: true
+-
+  name: KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ
+  is_public: true
+-
+  name: KARABÜK ÜNİVERSİTESİ
+  is_public: true
+-
+  name: KARADENİZ TEKNİK ÜNİVERSİTESİ
+  is_public: true
+-
+  name: KARAMANOĞLU MEHMETBEY ÜNİVERSİTESİ
+  is_public: true
+-
+  name: KASTAMONU ÜNİVERSİTESİ
+  is_public: true
+-
+  name: KAYSERİ ÜNİVERSİTESİ
+  is_public: true
+-
+  name: KIRIKKALE ÜNİVERSİTESİ
+  is_public: true
+-
+  name: KIRKLARELİ ÜNİVERSİTESİ
+  is_public: true
+-
+  name: KIRŞEHİR AHİ EVRAN ÜNİVERSİTESİ
+  is_public: true
+-
+  name: KİLİS 7 ARALIK ÜNİVERSİTESİ
+  is_public: true
+-
+  name: KOCAELİ ÜNİVERSİTESİ
+  is_public: true
+-
+  name: KONYA TEKNİK ÜNİVERSİTESİ
+  is_public: true
+-
+  name: KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ
+  is_public: true
+-
+  name: KÜTAHYA SAĞLIK BİLİMLERİ ÜNİVERSİTESİ
+  is_public: true
+-
+  name: MALATYA TURGUT ÖZAL ÜNİVERSİTESİ
+  is_public: true
+-
+  name: MANİSA CELÂL BAYAR ÜNİVERSİTESİ
+  is_public: true
+-
+  name: MARDİN ARTUKLU ÜNİVERSİTESİ
+  is_public: true
+-
+  name: MARMARA ÜNİVERSİTESİ
+  is_public: true
+-
+  name: MERSİN ÜNİVERSİTESİ
+  is_public: true
+-
+  name: MİMAR SİNAN GÜZEL SANATLAR ÜNİVERSİTESİ
+  is_public: true
+-
+  name: MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ
+  is_public: true
+-
+  name: MUNZUR ÜNİVERSİTESİ
+  is_public: true
+-
+  name: MUŞ ALPARSLAN ÜNİVERSİTESİ
+  is_public: true
+-
+  name: NECMETTİN ERBAKAN ÜNİVERSİTESİ
+  is_public: true
+-
+  name: NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ
+  is_public: true
+-
+  name: NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ
+  is_public: true
+-
+  name: ONDOKUZ MAYIS ÜNİVERSİTESİ
+  is_public: true
+-
+  name: ORDU ÜNİVERSİTESİ
+  is_public: true
+-
+  name: OSMANİYE KORKUT ATA ÜNİVERSİTESİ
+  is_public: true
+-
+  name: PAMUKKALE ÜNİVERSİTESİ
+  is_public: true
+-
+  name: RECEP TAYYİP ERDOĞAN ÜNİVERSİTESİ
+  is_public: true
+-
+  name: SAĞLIK BİLİMLERİ ÜNİVERSİTESİ
+  is_public: true
+-
+  name: SAKARYA UYGULAMALI BİLİMLER ÜNİVERSİTESİ
+  is_public: true
+-
+  name: SAKARYA ÜNİVERSİTESİ
+  is_public: true
+-
+  name: SAMSUN ÜNİVERSİTESİ
+  is_public: true
+-
+  name: SELÇUK ÜNİVERSİTESİ
+  is_public: true
+-
+  name: SİİRT ÜNİVERSİTESİ
+  is_public: true
+-
+  name: SİNOP ÜNİVERSİTESİ
+  is_public: true
+-
+  name: SİVAS CUMHURİYET ÜNİVERSİTESİ
+  is_public: true
+-
+  name: SÜLEYMAN DEMİREL ÜNİVERSİTESİ
+  is_public: true
+-
+  name: ŞIRNAK ÜNİVERSİTESİ
+  is_public: true
+-
+  name: TARSUS ÜNİVERSİTESİ
+  is_public: true
+-
+  name: TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ
+  is_public: true
+-
+  name: TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ
+  is_public: true
+-
+  name: TRABZON ÜNİVERSİTESİ
+  is_public: true
+-
+  name: TRAKYA ÜNİVERSİTESİ
+  is_public: true
+-
+  name: UŞAK ÜNİVERSİTESİ
+  is_public: true
+-
+  name: VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ
+  is_public: true
+-
+  name: YALOVA ÜNİVERSİTESİ
+  is_public: true
+-
+  name: YOZGAT BOZOK ÜNİVERSİTESİ
+  is_public: true
+-
+  name: ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ
+  is_public: true
+-
+  name: İÇİŞLERİ BAKANLIĞI VE MİLLİ SAVUNMA BAKANLIĞI ADINA SAĞLIK BİLİMLERİ ÜNİVERSİTESİNDE EĞİTİM ALACAKLAR
+  is_public: true
+-
+  name: HOCA AHMET YESEVİ ULUSLARARASI TÜRK-KAZAK ÜNİVERSİTESİ
+  is_public: false
+-
+  name: ACIBADEM MEHMET ALİ AYDINLAR ÜNİVERSİTESİ
+  is_public: false
+-
+  name: ALANYA HAMDULLAH EMİN PAŞA ÜNİVERSİTESİ
+  is_public: false
+-
+  name: ALTINBAŞ ÜNİVERSİTESİ
+  is_public: false
+-
+  name: ANKARA MEDİPOL ÜNİVERSİTESİ
+  is_public: false
+-
+  name: ANTALYA AKEV ÜNİVERSİTESİ
+  is_public: false
+-
+  name: ANTALYA BİLİM ÜNİVERSİTESİ
+  is_public: false
+-
+  name: ATILIM ÜNİVERSİTESİ
+  is_public: false
+-
+  name: AVRASYA ÜNİVERSİTESİ
+  is_public: false
+-
+  name: BAHÇEŞEHİR ÜNİVERSİTESİ
+  is_public: false
+-
+  name: BAŞKENT ÜNİVERSİTESİ
+  is_public: false
+-
+  name: BEYKENT ÜNİVERSİTESİ
+  is_public: false
+-
+  name: BEYKOZ ÜNİVERSİTESİ
+  is_public: false
+-
+  name: BEZM-İ ÂLEM VAKIF ÜNİVERSİTESİ
+  is_public: false
+-
+  name: BİRUNİ ÜNİVERSİTESİ
+  is_public: false
+-
+  name: ÇAĞ ÜNİVERSİTESİ
+  is_public: false
+-
+  name: ÇANKAYA ÜNİVERSİTESİ
+  is_public: false
+-
+  name: DEMİROĞLU BİLİM ÜNİVERSİTESİ
+  is_public: false
+-
+  name: DOĞUŞ ÜNİVERSİTESİ
+  is_public: false
+-
+  name: FATİH SULTAN MEHMET VAKIF ÜNİVERSİTESİ
+  is_public: false
+-
+  name: FENERBAHÇE ÜNİVERSİTESİ
+  is_public: false
+-
+  name: HALİÇ ÜNİVERSİTESİ
+  is_public: false
+-
+  name: HASAN KALYONCU ÜNİVERSİTESİ
+  is_public: false
+-
+  name: IŞIK ÜNİVERSİTESİ
+  is_public: false
+-
+  name: İSTANBUL AREL ÜNİVERSİTESİ
+  is_public: false
+-
+  name: İSTANBUL ATLAS ÜNİVERSİTESİ
+  is_public: false
+-
+  name: İSTANBUL AYDIN ÜNİVERSİTESİ
+  is_public: false
+-
+  name: İSTANBUL AYVANSARAY ÜNİVERSİTESİ
+  is_public: false
+-
+  name: İSTANBUL BİLGİ ÜNİVERSİTESİ
+  is_public: false
+-
+  name: İSTANBUL ESENYURT ÜNİVERSİTESİ
+  is_public: false
+-
+  name: İSTANBUL GALATA ÜNİVERSİTESİ
+  is_public: false
+-
+  name: İSTANBUL GEDİK ÜNİVERSİTESİ
+  is_public: false
+-
+  name: İSTANBUL GELİŞİM ÜNİVERSİTESİ
+  is_public: false
+-
+  name: İSTANBUL KENT ÜNİVERSİTESİ
+  is_public: false
+-
+  name: İSTANBUL KÜLTÜR ÜNİVERSİTESİ
+  is_public: false
+-
+  name: İSTANBUL MEDİPOL ÜNİVERSİTESİ
+  is_public: false
+-
+  name: İSTANBUL OKAN ÜNİVERSİTESİ
+  is_public: false
+-
+  name: İSTANBUL RUMELİ ÜNİVERSİTESİ
+  is_public: false
+-
+  name: İSTANBUL SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ
+  is_public: false
+-
+  name: İSTANBUL YENİ YÜZYIL ÜNİVERSİTESİ
+  is_public: false
+-
+  name: İSTİNYE ÜNİVERSİTESİ
+  is_public: false
+-
+  name: İZMİR EKONOMİ ÜNİVERSİTESİ
+  is_public: false
+-
+  name: İZMİR TINAZTEPE ÜNİVERSİTESİ
+  is_public: false
+-
+  name: KAPADOKYA ÜNİVERSİTESİ
+  is_public: false
+-
+  name: KOCAELİ SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ
+  is_public: false
+-
+  name: KTO KARATAY ÜNİVERSİTESİ
+  is_public: false
+-
+  name: LOKMAN HEKİM ÜNİVERSİTESİ
+  is_public: false
+-
+  name: MALTEPE ÜNİVERSİTESİ
+  is_public: false
+-
+  name: NİŞANTAŞI ÜNİVERSİTESİ
+  is_public: false
+-
+  name: OSTİM TEKNİK ÜNİVERSİTESİ
+  is_public: false
+-
+  name: PİRİ REİS ÜNİVERSİTESİ
+  is_public: false
+-
+  name: SANKO ÜNİVERSİTESİ
+  is_public: false
+-
+  name: TOROS ÜNİVERSİTESİ
+  is_public: false
+-
+  name: TÜRK HAVA KURUMU ÜNİVERSİTESİ
+  is_public: false
+-
+  name: UFUK ÜNİVERSİTESİ
+  is_public: false
+-
+  name: ÜSKÜDAR ÜNİVERSİTESİ
+  is_public: false
+-
+  name: YAŞAR ÜNİVERSİTESİ
+  is_public: false
+-
+  name: YEDİTEPE ÜNİVERSİTESİ
+  is_public: false
+-
+  name: YÜKSEK İHTİSAS ÜNİVERSİTESİ
+  is_public: false
+-
+  name: AKDENİZ KARPAZ ÜNİVERSİTESİ
+  is_public: false
+-
+  name: DOĞU AKDENİZ ÜNİVERSİTESİ
+  is_public: false
+-
+  name: GİRNE AMERİKAN ÜNİVERSİTESİ
+  is_public: false
+-
+  name: GİRNE ÜNİVERSİTESİ
+  is_public: false
+-
+  name: KIBRIS AMERİKAN ÜNİVERSİTESİ
+  is_public: false
+-
+  name: KIBRIS İLİM ÜNİVERSİTESİ
+  is_public: false
+-
+  name: KIBRIS SAĞLIK VE TOPLUM BİLİMLERİ ÜNİVERSİTESİ
+  is_public: false
+-
+  name: LEFKE AVRUPA ÜNİVERSİTESİ
+  is_public: false
+-
+  name: ULUSLARARASI FİNAL ÜNİVERSİTESİ
+  is_public: false
+-
+  name: ULUSLARARASI KIBRIS ÜNİVERSİTESİ
+  is_public: false
+-
+  name: YAKIN DOĞU ÜNİVERSİTESİ
+  is_public: false
+-
+  name: ABDULLAH GÜL ÜNİVERSİTESİ
+  is_public: true
+-
+  name: ADANA ALPARSLAN TÜRKEŞ BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ
+  is_public: true
+-
+  name: ANKARA SOSYAL BİLİMLER ÜNİVERSİTESİ
+  is_public: true
+-
+  name: BOĞAZİÇİ ÜNİVERSİTESİ
+  is_public: true
+-
+  name: BURSA TEKNİK ÜNİVERSİTESİ
+  is_public: true
+-
+  name: ERZURUM TEKNİK ÜNİVERSİTESİ
+  is_public: true
+-
+  name: GEBZE TEKNİK ÜNİVERSİTESİ
+  is_public: true
+-
+  name: İSTANBUL MEDENİYET ÜNİVERSİTESİ
+  is_public: true
+-
+  name: İSTANBUL TEKNİK ÜNİVERSİTESİ
+  is_public: true
+-
+  name: ORTA DOĞU TEKNİK ÜNİVERSİTESİ
+  is_public: true
+-
+  name: TÜRK-ALMAN ÜNİVERSİTESİ
+  is_public: true
+-
+  name: YILDIZ TEKNİK ÜNİVERSİTESİ
+  is_public: true
+-
+  name: KIRGIZİSTAN-TÜRKİYE MANAS ÜNİVERSİTESİ
+  is_public: false
+-
+  name: ANKARA BİLİM ÜNİVERSİTESİ
+  is_public: false
+-
+  name: İBN HALDUN ÜNİVERSİTESİ
+  is_public: false
+-
+  name: İHSAN DOĞRAMACI BİLKENT ÜNİVERSİTESİ
+  is_public: false
+-
+  name: İSTANBUL 29 MAYIS ÜNİVERSİTESİ
+  is_public: false
+-
+  name: İSTANBUL SABAHATTİN ZAİM ÜNİVERSİTESİ
+  is_public: false
+-
+  name: İSTANBUL TİCARET ÜNİVERSİTESİ
+  is_public: false
+-
+  name: KADİR HAS ÜNİVERSİTESİ
+  is_public: false
+-
+  name: KOÇ ÜNİVERSİTESİ
+  is_public: false
+-
+  name: KONYA GIDA VE TARIM ÜNİVERSİTESİ
+  is_public: false
+-
+  name: MEF ÜNİVERSİTESİ
+  is_public: false
+-
+  name: NUH NACİ YAZGAN ÜNİVERSİTESİ
+  is_public: false
+-
+  name: ÖZYEĞİN ÜNİVERSİTESİ
+  is_public: false
+-
+  name: SABANCI ÜNİVERSİTESİ
+  is_public: false
+-
+  name: TED ÜNİVERSİTESİ
+  is_public: false
+-
+  name: TOBB EKONOMİ VE TEKNOLOJİ ÜNİVERSİTESİ
+  is_public: false
+-
+  name: ADA KENT ÜNİVERSİTESİ
+  is_public: false
+-
+  name: ARKIN YARATICI SANATLAR VE TASARIM ÜNİVERSİTESİ
+  is_public: false
+-
+  name: BAHÇEŞEHİR KIBRIS ÜNİVERSİTESİ
+  is_public: false
+-
+  name: KIBRIS BATI ÜNİVERSİTESİ
+  is_public: false
+-
+  name: RAUF DENKTAŞ ÜNİVERSİTESİ
+  is_public: false
+-
+  name: AZERBAYCAN DEVLET PEDAGOJİ ÜNİVERSİTESİ
+  is_public: false
+-
+  name: AZERBAYCAN DİLLER ÜNİVERSİTESİ
+  is_public: false
+-
+  name: AZERBAYCAN TIP ÜNİVERSİTESİ
+  is_public: false
+-
+  name: BAKÜ DEVLET ÜNİVERSİTESİ
+  is_public: false
+-
+  name: KOMRAT DEVLET ÜNİVERSİTESİ
+  is_public: false
+-
+  name: ULUSLARARASI SARAYBOSNA ÜNİVERSİTESİ
+  is_public: false
+-
+  name: ULUSLARARASI BALKAN ÜNİVERSİTESİ
+  is_public: false
