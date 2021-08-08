@@ -11,7 +11,7 @@ class Api::V1::FacultiesController < ApplicationController
 
   def index
     @faculties = Faculty.all
-    render json: @faculties
+    render json: @faculties, except: [:created_at, :updated_at]
   end
 
   def show

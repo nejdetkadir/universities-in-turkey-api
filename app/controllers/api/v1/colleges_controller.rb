@@ -6,7 +6,7 @@ class Api::V1::CollegesController < ApplicationController
   def create
     @college = College.new(college_params)
     @college.save
-    render json: @college
+    render json: @college, except: [:created_at, :updated_at]
   end
 
   def index

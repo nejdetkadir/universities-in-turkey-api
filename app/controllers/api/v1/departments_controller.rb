@@ -11,7 +11,7 @@ class Api::V1::DepartmentsController < ApplicationController
 
   def index
     @departments = Department.all
-    render json: @departments
+    render json: @departments, except: [:created_at, :updated_at]
   end
 
   def show
